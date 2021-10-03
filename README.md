@@ -3,7 +3,7 @@
 
 
 [![Github](https://img.shields.io/badge/Github-IronWolf3000-blue?style=for-the-badge&logo=github)](https://github.com/IronWolf3000)
-<a href="https://t.me/joinchat/ylsySwFK2GtiOWVl"><img title="Telegram Channel" src="/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/joinchat/AAAAAFHmxm72d-lboeaueg"><img title="Telegram Channel" src="https://t.me/joinchat/ylsySwFK2GtiOWVl/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 
 	
 
