@@ -2,7 +2,7 @@
   &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 ## Find Me on :
 
-[![Github](https://img.shields.io/badge/Github-HTR--TECH-green?style=for-the-badge&logo=github)](https://github.com/IronWolf3000)
+[![Github](https://img.shields.io/badge/Github-IronWolf3000-blue?style=for-the-badge&logo=github)](https://github.com/IronWolf3000)
 
 
 
