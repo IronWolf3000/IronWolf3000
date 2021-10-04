@@ -26,5 +26,8 @@
 
 
 <img src = "https://github.com/IronWolf3000/IronWolf3000/blob/main/logo205x250.gif"> 
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+
+
 
 
