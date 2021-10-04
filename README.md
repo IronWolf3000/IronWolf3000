@@ -26,7 +26,7 @@
 
 
 <img src = "https://github.com/IronWolf3000/IronWolf3000/blob/main/logo205x250.gif"> 
-<a href="https://www.IronWolf3000.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=IronWolf3000&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&li
+<a href="https://www.IronWolf3000com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=IronWolf3000&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&li
 	
 
 
