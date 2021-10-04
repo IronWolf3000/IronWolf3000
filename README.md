@@ -34,7 +34,23 @@
 <img src = "https://github.com/IronWolf3000/IronWolf3000/blob/main/logo205x250.gif"> 
 
 	
+<pre>
 
+   ┌──┤ SOCIAL ├─────────▰▰▰
+
+   │
+
+   ├─😈 <a href="https://youtube.com/channel/UCirjXMzqIwYnc37imuoSdZA">YouTube</a>
+
+   ├─😈 <a href="https://t.me/joinchat/ylsySwFK2GtiOWVl">Telegram</a>
+
+   ├─😈 <a href="htrps://github.com/IronWolf3000">github</a>
+
+   │
+
+   └───────────────────────────────▰▰▰
+
+</pre>
 	
 
 	
