@@ -36,7 +36,7 @@
 	
 <pre>
 
-   ┌──┤ SOCIAL ├─────────▰▰▰
+   ┌──┤ IronWolf3000 ├─────────▰▰▰
 
    │
 
@@ -44,7 +44,7 @@
 
    ├─😈 <a href="https://t.me/joinchat/ylsySwFK2GtiOWVl">Telegram</a>
 
-   ├─😈 <a href="htrps://github.com/IronWolf3000">github</a>
+   ├─😈 <a href="htrps://github.com/IronWolf3000">Github</a>
 
    │
 
