@@ -2,7 +2,8 @@
 
 ❯▁
  
-	
+<img src = "https://github.com/IronWolf3000/IronWolf3000/ blob/main/wolf.jpg">
+
 <pre>
 
    ┌──┤ Cyber YN ├─────────▰▰▰
