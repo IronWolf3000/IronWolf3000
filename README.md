@@ -2,21 +2,8 @@
 
 ❯▁
  
- ༺═─⃝─👨‍💻 We are anonymous 👨‍💻─⃝─═༻
-
-
-
-
-
-	
-
-
-
-
-
-
-
-"><img title="Cyber_YN" src="https://github-readme-stats.vercel.a
+ 
+ CyberYN ☣☣☣
 	
 <pre>
 
