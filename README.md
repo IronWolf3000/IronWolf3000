@@ -24,7 +24,7 @@
 	
 <img src = "https://github.com/IronWolf3000/IronWolf3000/blob/main/logo205x250.gif">
 	
-<img src = "https://github.com/IronWolf3000/IronWolf3000/blob/main/wolf1.jpg">
+<img src = "https://github.com/IronWolf3000/IronWolf3000/blob/main/wolf1.png">
 	
 
 	
