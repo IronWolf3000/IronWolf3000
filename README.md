@@ -2,8 +2,6 @@
 
 ❯▁
  
- 
- CyberYN ☣☣☣
 	
 <pre>
 
