@@ -3,7 +3,6 @@
 ❯▁
  
  ༺═─⃝─👨‍💻 We are anonymous 👨‍💻─⃝─═༻
-  &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
 
@@ -36,7 +35,7 @@
 	
 <pre>
 
-   ┌──┤ IronWolf3000 ├─────────▰▰▰
+   ┌──┤ Cyber YN ├─────────▰▰▰
 
    │
 
@@ -44,7 +43,7 @@
 
    ├─😈 <a href="https://t.me/joinchat/ylsySwFK2GtiOWVl">Telegram</a>
 
-     👨‍💻IronWolf3000👨‍💻
+     👨‍💻Cyber YN👨‍💻
 
    │
 
